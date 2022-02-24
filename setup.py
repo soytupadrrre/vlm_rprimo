@@ -15,5 +15,5 @@ setup(
     classifiers=[],
     keywords=['primos', 'R', 'Python'],
     url="https://github.com/soytupadrrre/vlm_rprimo",
-    download_url="https://github.com/soytupadrrre/vlm_rprimo/archive/1.0.tar.gz",
+    download_url="https://github.com/soytupadrrre/vlm_rprimo/tarball/1.0",
 )
